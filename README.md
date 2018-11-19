@@ -1,0 +1,2 @@
+# Dasmoto-s-Arts-Crafts
+An overseas art store has contacted you to design a website for the items they sell. They've provided you with all of the documents needed for you to start. Showcase your HTML and CSS skills by creating a website for them.  Go to the next item on the left navigation to view the project and follow along the instructions. Once you are done, come back to this page to submit your project for review using the submission flow below.  This is the first of three reviewable projects in Build Websites from Scratch!
